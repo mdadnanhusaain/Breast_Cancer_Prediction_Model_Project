@@ -1,4 +1,4 @@
-# ShapeAI Python & Deep Learning Bootcamp Project
+# Breast Cancer Prediction Model Project
 
 ## __Some Key Points about this repository:-__
 <ul>
